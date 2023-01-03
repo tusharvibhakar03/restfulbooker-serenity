@@ -1,0 +1,9 @@
+com\resttful\constants\Path.class
+com\resttful\App.class
+com\resttful\model\AuthorisationPojo.class
+com\resttful\steps\BookingSteps.class
+com\resttful\utils\PropertyReader.class
+com\resttful\constants\EndPoints.class
+com\resttful\model\BookingPojo$BookingDates.class
+com\resttful\model\BookingPojo.class
+com\resttful\utils\TestUtils.class
